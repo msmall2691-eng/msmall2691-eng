@@ -18,6 +18,8 @@ I build practical websites and business systems informed by running a service bu
 
 [Read my project case studies](case-studies/selected-projects.md) — business needs, contributions, implementation and evidence.
 
+[Frontend case study: instant quote tool](case-studies/frontend-quote-tool.md) — interface choices and a verified input-to-estimate walkthrough.
+
 ## Technologies used in my projects
 
 React · Next.js · TypeScript · Python/FastAPI · PostgreSQL
