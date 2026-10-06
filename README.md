@@ -16,6 +16,8 @@ I build practical websites and business systems informed by running a service bu
 | [M Studio](https://mlinx.studio/) | Service-business websites and browser tools for quotes, invoices, signatures, QR codes, and workflow cost estimates |
 | [The Remote Admin](https://www.the-remote-admin.com/) | Client website development |
 
+[Read my project case studies](case-studies/selected-projects.md) — business needs, contributions, implementation and evidence.
+
 ## Technologies used in my projects
 
 React · Next.js · TypeScript · Python/FastAPI · PostgreSQL
