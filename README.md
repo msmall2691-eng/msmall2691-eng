@@ -1,4 +1,5 @@
-# Hi, I'm Megan Small
+# Megan | Mainer | Web designer | Systems guru 
+Check out some of my work and experience!
 
 I build practical websites and business systems informed by running a service business since 2018.
 
